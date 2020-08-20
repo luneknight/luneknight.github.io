@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luneknight.github.io</id>
     <title>虚</title>
-    <updated>2020-08-20T13:09:41.633Z</updated>
+    <updated>2020-08-20T13:19:24.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luneknight.github.io"/>
     <link rel="self" href="https://luneknight.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://luneknight.github.io/images/avatar.png</logo>
     <icon>https://luneknight.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 虚</rights>
+    <entry>
+        <title type="html"><![CDATA[All of me]]></title>
+        <id>https://luneknight.github.io/post/all-of-me/</id>
+        <link href="https://luneknight.github.io/post/all-of-me/">
+        </link>
+        <updated>2020-08-20T13:18:43.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/luneknight/blogimg/master/20200820205559.jpg" alt="" loading="lazy"></figure>
+<p><em>摄于20160920 韩国济州岛</em></p>
+<hr>
+<p>一向很怕写各种形式的自我介绍，因为静下心来内视自己一直活着很抽象，不是一个太真实的人。虽然已经人过三十，但还是大部分时间活在自己的世界里。而且身为<a href="https://zh.wikipedia.org/wiki/INTJ"><strong>INTJ</strong></a>，更偏爱从幕后或角落冷眼观察世态百相，内心的吐槽都能填满整个弹幕但是表面如同黑屏啥都看不到。</p>
+<p>大约十年前接触blog和RSS，一直是Google Reader的忠实使用者，浏览器首页都是GR，觉得静静做个看客就好，看见心仪的文章也就是喜爱并转发，偶尔会在评论区留言。后来GR死了，很长一段时间不能适应微博的喧嚣，也从不喜欢和人争执对错，因为大多数人都满足于<strong>自证偏见</strong>，只好跑到论坛避难。近几年好不容易转投<a href="http://www.inoreader.com/">inoreader</a>，结果大多数资讯又被腾讯的微信信息闭环黑洞吸收了，对于习惯电脑端自由操作的我来说非常痛苦。</p>
+<p>极度拖延症再次打算写文章自我治疗。从小看书很多，涉猎颇广，现在喜欢研究常旅客和信用卡知识，也希望和大家分享。也是为了记录一下吧，有时生活中灵光一闪的东西很快就会被忘记的。同时也想分享一下自己生活中有意思的东西。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://luneknight.github.io/post/hello-gridea/</id>
